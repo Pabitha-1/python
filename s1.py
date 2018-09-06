@@ -6,7 +6,7 @@ if(N<1000):
     ch=N%10
     cha=cha*10+ch
     N=N/10
-   if(t==cha):
-    print("It is palindrome")
-   else:
-    print("It is not palindrome")
+    if(t==cha):
+      print("It is palindrome")
+     else:
+      print("It is not palindrome")
