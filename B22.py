@@ -1,4 +1,4 @@
-  p=[]
+p=[]
 q=int(input("N="))
 if(1<=q<=100000):
     print("Enter the value ",q,"Integers")
