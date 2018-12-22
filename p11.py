@@ -1,4 +1,3 @@
-print("The Day is Holiday or not")
 h = input()
 if(h in ["Saturday","SATURDAY","saturday","Sunday","sunday","SUNDAY"]):
     print("yes")
