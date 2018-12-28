@@ -1,8 +1,8 @@
-a = int(input(""))
+a1 = int(input(""))
 i = 0
 n = 0
 m = 1
-while(i < a):
+while(i < a1):
     if(i <= 1):
         k = i
     else:
