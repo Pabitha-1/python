@@ -1,6 +1,6 @@
-a=150
-b=160
+a=int(input("a:"))
+b=int(input("b:"))
 a=a ^ b;
 b=a ^ b;
 a=a ^ b;
-print(a,b)
+print( a,b)
