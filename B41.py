@@ -1,4 +1,4 @@
-m=str(input("i"))
-n=int(input("j"))
+m=str(input())
+n=int(input())
 for i in range(0,n):
   print(m)
