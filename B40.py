@@ -1,13 +1,13 @@
-a1 = int(input(""))
-i = 0
-n = 0
-m = 1
-while(i < a1):
-    if(i <= 1):
-        k = i
+f = int(input(""))
+c = 0
+a = 0
+b = 1
+while(c< f):
+    if(c <= 1):
+        k = c
     else:
-        k = n + m
-        n = m
-        m = k
+        k = a + b
+        a = b
+        b = k
     print(k)
-    i = i + 1
+    c = c + 1
