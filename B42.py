@@ -8,4 +8,3 @@ elif(len1>len2):
     print(string1)
 else:
     print(string2)
-   
