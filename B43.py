@@ -1,3 +1,3 @@
-str1=str(input())
-str2=str(input())
+str1="Hello"
+str2="world"
 print(str1+str2)
