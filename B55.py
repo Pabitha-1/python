@@ -1,6 +1,7 @@
 p=int(input())
 q=int(input())
-if(p*q%2==0):
-  print("Even")
+num=p*q
+if (num%2)==0:
+   print('even')
 else:
-  print("Odd")
+   print('odd')
