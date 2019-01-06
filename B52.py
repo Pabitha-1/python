@@ -1,0 +1,24 @@
+p=int(input())
+if(1<=p<=10):
+    if(p==1):
+        print("one")
+    elif(p==2):
+        print("two")
+    elif(p==3):
+        print("three")
+    elif(p==4):
+        print("four")
+    elif(p==5):
+        print("five")
+    elif(p==6):
+        print("six")
+    elif(p==7):
+        print("seven")
+    elif(p==9):
+        print("eight")
+    elif(p==8):
+        print("nine")
+    elif(p==10):
+        print("ten")
+else:
+    print("not valid")
