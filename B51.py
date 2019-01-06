@@ -1,12 +1,12 @@
-z=[]
-x=1
+x=[]
 y=1
+z=1
 u=int(input())
 v=len(str(u))
-y=u
+z=u
 while(u>0):
-    x=u%10
+    y=u%10
     u=u//10
-    z.append(x)
+    x.append(y)
 for i in range(v-1,-1,-1):
-    print(z[i],end=' ')
+    print(x[i],end=' ')
