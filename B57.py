@@ -1,6 +1,6 @@
-n=[]
 N=int(input())
 K=int(input())
+n=[]
 for i in range(0,N):
     k=int(input())
     n.append(k)
