@@ -1,3 +1,3 @@
-S=input('')
-k=int(input(''))
-print(S[0:k])
+a=input('')
+b=int(input(''))
+print(a[0:b])
