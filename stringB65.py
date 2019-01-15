@@ -1,2 +1,1 @@
-string=input()
-print(string)
+print("Hello world")
